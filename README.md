@@ -1,6 +1,8 @@
 # Python Turtles Workshop
 ## Created by Belanie Nagiel
 
+## Slides: https://docs.google.com/presentation/d/1JiAjsjFZBkivlaesosvpb67uCAImN9JZbpkFNj8bNcs/edit?usp=sharing
+
 ### What will you learn in this presentation?
 1. What is a “turtle”?
 2. What is a function?
